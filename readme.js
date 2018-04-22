@@ -1,3 +1,5 @@
+https://www.hackerrank.com/challenges/queens-attack-2/forum
+
 #!/bin/python
 
 import sys
